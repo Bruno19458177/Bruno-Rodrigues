@@ -29,7 +29,7 @@
   
   
 </div>
-![ Animação de cobra ](https://github.com/Bruno19458177/Bruno19458177/blob/output/github-contribution-grid-snake.svg)
+
   <a align="center" href = "mailto:brunoetec2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
   <a  align="center" href="https://www.linkedin.com/in/bruno-rodrigues-a54b08209" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
